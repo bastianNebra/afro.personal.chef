@@ -8,7 +8,7 @@ export const chefs = [
     rating: 4.9,
     reviewCount: 127,
     specialties: ['Thieboudienne', 'Yassa', 'Mafé'],
-    image: 'https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=400&fit=crop&crop=face',
+    image: 'https://demo-source.imgix.net/head_shot.jpg',
     description: 'Chef passionnée par la cuisine sénégalaise traditionnelle avec 15 ans d\'expérience.',
     priceRange: '€€',
     bio: 'Passionnée par la cuisine sénégalaise depuis mon enfance, j\'ai grandi en apprenant les secrets culinaires de ma grand-mère à Dakar. Après 15 ans d\'expérience dans la restauration en France, je partage aujourd\'hui l\'authenticité des saveurs de mon pays natal avec la diaspora africaine et les amateurs de cuisine du monde entier.',
