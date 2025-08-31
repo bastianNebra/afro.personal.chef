@@ -68,15 +68,15 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center space-x-2">
                 <Mail size={16} className="text-primary" />
-                <span className="text-gray-300">contact@afropersonalchef.com</span>
+                <span className="text-gray-300">contact@afropersonalchef.online</span>
               </li>
               <li className="flex items-center space-x-2">
                 <Phone size={16} className="text-primary" />
-                <span className="text-gray-300">+33 1 23 45 67 89</span>
+                <span className="text-gray-300">+49 157 38 358046</span>
               </li>
               <li className="flex items-center space-x-2">
                 <MapPin size={16} className="text-primary" />
-                <span className="text-gray-300">Paris, France</span>
+                <span className="text-gray-300">Berlin, Allemagne</span>
               </li>
             </ul>
           </div>

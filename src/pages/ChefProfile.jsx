@@ -196,7 +196,7 @@ const ChefProfile = () => {
             <div className="bg-white rounded-xl shadow-lg p-6">
               <h3 className="text-lg font-semibold text-gray-900 mb-4">Zone de Service</h3>
               <div className="space-y-2">
-                <div className="text-gray-700">Paris et région parisienne</div>
+                <div className="text-gray-700">Berlin et région Berlinienne</div>
                 <div className="text-sm text-gray-500">
                   Déplacement possible dans un rayon de 50km
                 </div>
